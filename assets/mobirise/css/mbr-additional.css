@@ -1903,6 +1903,17 @@ h6,
 #ext_menu-59 .dropdown-item[aria-expanded="true"] {
   color: #f3c649!important;
 }
+#header3-5o .mbr-section-title,
+#header3-5o .mbr-section-subtitle {
+  text-align: center;
+}
+#social-buttons4-5n .mbr-section-title,
+#social-buttons4-5n .btn-social {
+  color: #fff;
+}
+#social-buttons4-5n .mbr-section-title {
+  color: #fac51c;
+}
 #contacts1-5a P {
   color: #fac51c;
 }
